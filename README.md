@@ -1,4 +1,4 @@
-styleguidedriven.github.io
-==========================
+styleguidecentral.github.io
+===========================
 
-Contents of the styleguidedriven.github.io website.
+Contents of the styleguidecentral.github.io website.
